@@ -1,0 +1,17 @@
+User
+ |
+ | Signup/Login
+ v
+Authentication Controller
+ |
+ | Validate Data
+ v
+Database
+ |
+ | Generate Unique Token
+ v
+Session/Auth Manager
+ |
+ | Access Granted
+ v
+Dashboard

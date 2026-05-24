@@ -1,0 +1,13 @@
+Dashboard User
+ |
+ | Change Status
+ v
+Status Controller
+ |
+ | Update Status
+ v
+Database
+ |
+ | Return Updated Data
+ v
+Dashboard

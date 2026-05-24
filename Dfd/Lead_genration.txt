@@ -1,0 +1,17 @@
+Customer
+ |
+ | Submit Form
+ v
+Landing Page Frontend
+ |
+ | API Request
+ v
+Lead API
+ |
+ | Validate Input
+ v
+Lead Database
+ |
+ | Store Lead
+ v
+Dashboard Data Table
